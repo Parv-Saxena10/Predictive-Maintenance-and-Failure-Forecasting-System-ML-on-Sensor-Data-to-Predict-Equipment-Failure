@@ -178,7 +178,7 @@ predictive-maintenance-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Dhanush-1213/predictive-maintenance-system.git
+git clone https://github.com/Parv-Saxena10/Predictive-Maintenance-and-Failure-Forecasting-System-ML-on-Sensor-Data-to-Predict-Equipment-Failure.git
 cd predictive-maintenance-system
 ```
 
@@ -344,14 +344,6 @@ Batch prediction from a CSV file upload.
 
 ---
 
-##  Author
-
-**Dhanush K**  
-PES University | CSE (AIML)  
-LinkedIn: [@Dhanush K](https://www.linkedin.com/in/dhanush-k-pes1312/)
-
-
----
 
 <div align="center">
 
